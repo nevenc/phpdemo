@@ -1,0 +1,6 @@
+---
+applications:
+- name: phpdemo
+  memory: 128M
+  buildpacks:
+  - php_buildpack
